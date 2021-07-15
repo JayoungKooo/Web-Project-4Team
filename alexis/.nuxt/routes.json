@@ -2,50 +2,50 @@
   {
     "name": "about",
     "path": "/about",
-    "component": "C:\\\\Users\\\\HKEDU\\\\Desktop\\\\새 폴더 (4)\\\\alexis-photography-vue-nuxt-js-template-2021-04-24-07-16-19-utc\\\\alexis\\\\pages\\\\about.vue",
+    "component": "C:\\\\Users\\\\HKEDU\\\\Desktop\\\\Web-Project-4Team\\\\alexis\\\\pages\\\\about.vue",
     "chunkName": "pages/about",
-    "_name": "_6bf620a6"
+    "_name": "_bf28cfee"
   },
   {
     "name": "blog",
     "path": "/blog",
-    "component": "C:\\\\Users\\\\HKEDU\\\\Desktop\\\\새 폴더 (4)\\\\alexis-photography-vue-nuxt-js-template-2021-04-24-07-16-19-utc\\\\alexis\\\\pages\\\\blog.vue",
+    "component": "C:\\\\Users\\\\HKEDU\\\\Desktop\\\\Web-Project-4Team\\\\alexis\\\\pages\\\\blog.vue",
     "chunkName": "pages/blog",
-    "_name": "_42e077ce"
+    "_name": "_e4a75754"
   },
   {
     "name": "blog-details",
     "path": "/blog-details",
-    "component": "C:\\\\Users\\\\HKEDU\\\\Desktop\\\\새 폴더 (4)\\\\alexis-photography-vue-nuxt-js-template-2021-04-24-07-16-19-utc\\\\alexis\\\\pages\\\\blog-details.vue",
+    "component": "C:\\\\Users\\\\HKEDU\\\\Desktop\\\\Web-Project-4Team\\\\alexis\\\\pages\\\\blog-details.vue",
     "chunkName": "pages/blog-details",
-    "_name": "_7856c60e"
+    "_name": "_1e31c94b"
   },
   {
     "name": "contact",
     "path": "/contact",
-    "component": "C:\\\\Users\\\\HKEDU\\\\Desktop\\\\새 폴더 (4)\\\\alexis-photography-vue-nuxt-js-template-2021-04-24-07-16-19-utc\\\\alexis\\\\pages\\\\contact.vue",
+    "component": "C:\\\\Users\\\\HKEDU\\\\Desktop\\\\Web-Project-4Team\\\\alexis\\\\pages\\\\contact.vue",
     "chunkName": "pages/contact",
-    "_name": "_496d6379"
+    "_name": "_36628e1c"
   },
   {
     "name": "portfolio",
     "path": "/portfolio",
-    "component": "C:\\\\Users\\\\HKEDU\\\\Desktop\\\\새 폴더 (4)\\\\alexis-photography-vue-nuxt-js-template-2021-04-24-07-16-19-utc\\\\alexis\\\\pages\\\\portfolio.vue",
+    "component": "C:\\\\Users\\\\HKEDU\\\\Desktop\\\\Web-Project-4Team\\\\alexis\\\\pages\\\\portfolio.vue",
     "chunkName": "pages/portfolio",
-    "_name": "_d68b773e"
+    "_name": "_190f5244"
   },
   {
     "name": "portfolio-details",
     "path": "/portfolio-details",
-    "component": "C:\\\\Users\\\\HKEDU\\\\Desktop\\\\새 폴더 (4)\\\\alexis-photography-vue-nuxt-js-template-2021-04-24-07-16-19-utc\\\\alexis\\\\pages\\\\portfolio-details.vue",
+    "component": "C:\\\\Users\\\\HKEDU\\\\Desktop\\\\Web-Project-4Team\\\\alexis\\\\pages\\\\portfolio-details.vue",
     "chunkName": "pages/portfolio-details",
-    "_name": "_4f407e56"
+    "_name": "_be320d8e"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "C:\\\\Users\\\\HKEDU\\\\Desktop\\\\새 폴더 (4)\\\\alexis-photography-vue-nuxt-js-template-2021-04-24-07-16-19-utc\\\\alexis\\\\pages\\\\index.vue",
+    "component": "C:\\\\Users\\\\HKEDU\\\\Desktop\\\\Web-Project-4Team\\\\alexis\\\\pages\\\\index.vue",
     "chunkName": "pages/index",
-    "_name": "_e8a4092a"
+    "_name": "_7fb91a64"
   }
 ]
