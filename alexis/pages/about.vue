@@ -34,7 +34,7 @@
 <script>
 export default {
   components: {
-    // 자영구
+    // 자영구구우우우우우
     Header: () => import("@/components/Header"),
     OffCanvasMobileMenu: () => import("@/components/OffCanvasMobileMenu"),
     SearchPopup: () => import("@/components/SearchPopup"),
